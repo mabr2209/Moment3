@@ -1,2 +1,4 @@
 # Mabr2209
-Detta hör till övningsuppgift 2 i moment 3 i kursen DT084G
+Jag heter Maria Broberg och är student på Webbutvecklarprogrammet på Mittuniversitetet i Östersund. 
+Utöver det är jag utbildad till civilingenjör i miljö- och vattenteknik och journalist. 
+
